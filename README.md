@@ -1,4 +1,4 @@
-# ola
+# ola (see https://github.com/redhat-helloworld-msa/ola)
 ola microservice using Spring Boot
 
 The detailed instructions to run *Red Hat Helloworld MSA* demo, can be found at the following repository: <https://github.com/redhat-helloworld-msa/helloworld-msa>
