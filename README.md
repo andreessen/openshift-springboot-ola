@@ -42,3 +42,9 @@ $ oc set probe dc/ola --readiness --get-url=http://:8080/api/health
 ----
 $ mvn package fabric8:deploy
 ----
+
+#### Test the service endpoint
+
+----
+curl http://ola-helloworld-msa.`minishift ip`.nip.io/api/ola
+----
